@@ -1,0 +1,99 @@
+[
+  {
+    "title": "About",
+    "links": [
+      {
+        "name": "About Style Op",
+        "link": "/about"
+      },
+      {
+        "name": "Careers",
+        "link": "/"
+      },
+      {
+        "name": "Social Media",
+        "link": "/"
+      },
+      {
+        "name": "Affiliation",
+        "link": "/"
+      },
+      {
+        "name": "Supply Chain",
+        "link": "/"
+      }
+    ]
+  },
+  {
+    "title": "Skincare",
+    "links": [
+      {
+        "name": "About Style Op",
+        "link": "/about"
+      },
+      {
+        "name": "Careers",
+        "link": "/"
+      },
+      {
+        "name": "Social Media",
+        "link": "/"
+      }
+    ]
+  },
+  {
+    "title": "Makeup",
+    "links": [
+      {
+        "name": "About Style Op",
+        "link": "/about"
+      },
+      {
+        "name": "Careers",
+        "link": "/"
+      }
+    ]
+  },
+  {
+    "title": "Supplements",
+    "links": [
+      {
+        "name": "About Style Op",
+        "link": "/about"
+      },
+      {
+        "name": "Careers",
+        "link": "/"
+      },
+      {
+        "name": "Social Media",
+        "link": "/"
+      },
+      {
+        "name": "Affiliation",
+        "link": "/"
+      },
+      {
+        "name": "Supply Chain",
+        "link": "/"
+      }
+    ]
+  },
+  {
+    "title": "Contacts",
+    "links": [
+      {
+        "name": "Social Media",
+        "link": "/"
+      },
+      {
+        "name": "Affiliation",
+        "link": "/"
+      },
+      {
+        "name": "Supply Chain",
+        "link": "/"
+      }
+    ]
+  }
+]
